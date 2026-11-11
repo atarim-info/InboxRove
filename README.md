@@ -20,3 +20,9 @@ Full message reading, mailbox organization and sending are later phases. Android
 Planning stage. This repository currently contains an initial README; application code, live integrations and deployments have not been created. Detailed technical choices and provider support are still under review.
 
 The canonical PRD, detailed design and decision register are maintained under `InboxRove/` in the owner's separate Documentation repository. Those private planning artifacts are not mirrored here.
+
+## License
+
+Copyright 2026 InboxRove contributors.
+
+Licensed under the [Apache License, Version 2.0](LICENSE).
